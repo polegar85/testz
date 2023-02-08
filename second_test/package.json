@@ -1,0 +1,11 @@
+{
+  "name": "second_test",
+  "version": "1.0.0",
+  "description": "Actions to Skroutz.gr",
+  "main": "index.js",
+  "scripts": {
+    "mytest": "npx playwright test second_test.spec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
